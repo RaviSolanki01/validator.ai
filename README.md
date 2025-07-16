@@ -1,7 +1,7 @@
-# Compliance-AI: Generative AI-Powered Compliance Auditor
+# Validator-AI: Generative AI-Powered Compliance Auditor
 
 ## 🚀 Overview
-**Compliance-AI** is a modular, scalable MVP to analyze and audit organizational compliance against regulatory documents (e.g., ISO, GDPR, SOC 2). It uses generative AI + RAG (Retrieval-Augmented Generation) to:
+**Validator-AI** is a modular, scalable MVP to analyze and audit organizational compliance against regulatory documents (e.g., ISO, GDPR, SOC 2). It uses generative AI + RAG (Retrieval-Augmented Generation) to:
 
 - Parse and index regulatory documents
 - Ingest company internal policy docs
@@ -22,7 +22,7 @@
 
 ## 🧱 Project Structure
 ```bash
-compliance-ai/
+Validator-AI/
 │
 ├── config/                # Config files (env, logging, flags)
 ├── core/                  # Business logic (ingestion, RAG, compliance)
@@ -71,4 +71,4 @@ compliance-ai/
 ---
 
 ## 📄 License
-MIT © 2025 Compliance-AI Team
+MIT © 2025 Validator-AI Team
